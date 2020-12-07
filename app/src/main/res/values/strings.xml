@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Arhitactior</string>
+    <string name="first_activity">firstactivity</string>
 </resources>
